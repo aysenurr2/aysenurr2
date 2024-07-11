@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
-<h4 align="center">I am Ayşenur, a full stack developer with a stronger interest in frontend development. Currently, I am a 3rd-year student at Boğaziçi University, studying in the Department of Computer Educational Technologies. I am actively learning full stack development through the Patika.dev course. I have a solid foundation in Java, HTML, CSS, and PostgreSQL, and I am in the process of expanding my skills to include Spring Boot, JavaScript, and React Native. I am fluent in Arabic, English, and Turkish, which allows me to connect with a diverse range of people. I'm always open to collaborating on interesting projects and discussing anything related to web development.</h4>
+
+<h4 align="center">Full stack developer with a stronger interest in frontend development. Currently, I am a 3rd-year student at Boğaziçi University, studying in the Department of Computer Educational Technologies. I am actively learning full stack development through the Patika.dev course. I have a solid foundation in Java, HTML, CSS, and PostgreSQL, and I am in the process of expanding my skills to include Spring Boot, JavaScript, and React Native. I am fluent in Arabic, English, and Turkish, which allows me to connect with a diverse range of people. I'm always open to collaborating on interesting projects and discussing anything related to web development.</h4>
 
 - 📫 How to reach me **aysewassouf728@gmail.com**
   
